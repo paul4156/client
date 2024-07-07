@@ -4,4 +4,11 @@ This demonstrates an issue of `instanceof` when dependencies have a major versio
 
 `instanceof` will fail to detect `JsError` class.
 
+## Setup
+
 Run `node index.js` and will see `missed` in console.
+
+## See also
+
+* https://github.com/paul4156/base
+* https://github.com/paul4156/server
