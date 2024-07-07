@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "is-instance-of": "^1.0.2",
     "paul4156-base": "^2.0.0",
     "paul4156-server": "^1.0.0"
   }
