@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "paul4156-base": "^2.0.0",
-    "paul4156-server": "^1.0.0"
+    "paul4156-base": "^2.1.0",
+    "paul4156-server": "^3.0.0"
   }
 }
